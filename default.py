@@ -118,7 +118,7 @@ else: FAV = []
 SOURCES = [{"url": "http://bit.ly/PHILLIPPP", "fanart": "http://i.imgur.com/GqQcQ7B.jpg"}]
 
 # http://i.imgur.com/6iey3uC.png
-# http://i.imgur.com/GqQcQ7B.jpg
+# http://i.imgur.com/8iqwbry.jpg
 
 
 def addon_log(string):
