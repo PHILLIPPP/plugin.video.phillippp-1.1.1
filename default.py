@@ -115,10 +115,10 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"url": "http://bit.ly/PHILLIPPP", "fanart": "http://i.imgur.com/8iqwbry.jpg"}]
+SOURCES = [{"url": "http://bit.ly/PHILLIPPP", "fanart": "http://i.imgur.com/GqQcQ7B.jpg"}]
 
 # http://i.imgur.com/6iey3uC.png
-# http://i.imgur.com/eklZFBE.png
+# http://i.imgur.com/GqQcQ7B.jpg
 
 
 def addon_log(string):
